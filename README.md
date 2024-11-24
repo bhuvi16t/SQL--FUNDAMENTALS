@@ -1,4 +1,4 @@
-# SQL--FUNDAMENTALS
+# SQL-FUNDAMENTALS
 SQL (Structured Query Language) is the backbone of interacting with databases. It’s a powerful language that allows you to retrieve, manipulate, and manage data efficiently. Here's a simple breakdown of the key SQL fundamentals you should know:
 
 
